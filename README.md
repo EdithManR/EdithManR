@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/edith-mandujano-a94108110](https://www.linkedin.com/in/edith-mandujano-a94108110)
 
-- ⚡ Fun fact **I like to learn new things. I'm currently studying Korean. My hobby is photography. 저는 새로운 것을 배우는 것을 좋아합니다.현재 한국어를 공부하고 있습니다. 제 취미는 사진입니다**
+- ⚡ Fun fact <br> **Me gusta aprender cosas nuevas, actualmente estoy aprendiendo el idioma Coreano. Mi pasatiempo es la Fotografía" <br>I like to learn new things. I'm currently studying Korean. My hobby is photography. <br> 저는 새로운 것을 배우는 것을 좋아합니다.현재 한국어를 공부하고 있습니다. 제 취미는 사진입니다**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
