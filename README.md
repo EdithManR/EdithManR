@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Yo soy EdithManR <br>Hi 👋, I'm EdithManR <br> 안녕하십니까? 저는 에딨입니다</h1>
+<h1 align="center">¡Hola! 👋 Yo soy EdithManR <br>Hi 👋, I'm EdithManR <br> 안녕하십니까? 저는 에딧입니다</h1>
 <h3 align="center">Soy Diseñadora web y desarrolladora FrontEnd en México <br>I'm a Web Designer and Front End developer in Mexico. <br>저는 멕시코에서 웹디자이너입니다 하고 프론트엔드 개발자입니다</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edithmanr&label=Profile%20views&color=0e75b6&style=flat" alt="edithmanr" /> </p>
